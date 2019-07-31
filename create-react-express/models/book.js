@@ -1,0 +1,1 @@
+// This is where I setup the schema of the books table for the db and the column info inside of it
